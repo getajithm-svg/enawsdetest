@@ -14,7 +14,7 @@ pipeline {
 
         DB_USER = 'admin'
 
-        DB_NAME = 'employee-db'
+        DB_NAME = 'employee_db'
     }
 
     stages {
